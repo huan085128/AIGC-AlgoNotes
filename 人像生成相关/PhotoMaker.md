@@ -1,6 +1,6 @@
 ## 目录
 
-- [1.PhotoMaker原理是什么？](#1.PhotoMaker？)
+- [1.PhotoMaker原理是什么？](#1.PhotoMaker原理是什么？)
 - [2.损失如何计算？](#2.损失如何计算？)
 - [原论文链接](https://arxiv.org/pdf/2312.04461)
 
